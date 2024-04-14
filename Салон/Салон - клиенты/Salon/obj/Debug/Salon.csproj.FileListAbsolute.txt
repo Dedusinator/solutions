@@ -1,0 +1,85 @@
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon.csproj.AssemblyReference.cache
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon.csproj.SuggestedBindingRedirects.cache
+G:\МДК.02.02\Salon\Salon\obj\Debug\MainWindow.g.cs
+G:\МДК.02.02\Salon\Salon\obj\Debug\Pages\Clients.g.cs
+G:\МДК.02.02\Salon\Salon\obj\Debug\App.g.cs
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon_Content.g.cs
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon_MarkupCompile.cache
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon_MarkupCompile.lref
+G:\МДК.02.02\Salon\Salon\bin\Debug\Salon.exe.config
+G:\МДК.02.02\Salon\Salon\bin\Debug\Salon.exe
+G:\МДК.02.02\Salon\Salon\bin\Debug\Salon.pdb
+G:\МДК.02.02\Salon\Salon\bin\Debug\EntityFramework.dll
+G:\МДК.02.02\Salon\Salon\bin\Debug\EntityFramework.SqlServer.dll
+G:\МДК.02.02\Salon\Salon\bin\Debug\EntityFramework.xml
+G:\МДК.02.02\Salon\Salon\bin\Debug\EntityFramework.SqlServer.xml
+G:\МДК.02.02\Salon\Salon\bin\Debug\ru\EntityFramework.resources.dll
+G:\МДК.02.02\Salon\Salon\obj\Debug\MainWindow.baml
+G:\МДК.02.02\Salon\Salon\obj\Debug\Pages\Clients.baml
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon.g.resources
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon.csproj.GenerateResource.cache
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon.csproj.CoreCompileInputs.cache
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon.csproj.CopyComplete
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon.exe
+G:\МДК.02.02\Salon\Salon\obj\Debug\Salon.pdb
+G:\МДК.02.02\Salon\Salon\obj\Debug\Pages\clientsEdit.g.cs
+G:\МДК.02.02\Salon\Salon\obj\Debug\Pages\clientsEdit.baml
+G:\МДК.02.02\Salon\Salon\obj\Debug\Tegochnaya.g.cs
+G:\МДК.02.02\Salon\Salon\obj\Debug\Tegochnaya.baml
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\bin\Debug\Salon.exe.config
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\bin\Debug\Salon.exe
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\bin\Debug\Salon.pdb
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\bin\Debug\EntityFramework.dll
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\bin\Debug\EntityFramework.xml
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon.csproj.AssemblyReference.cache
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\MainWindow.g.cs
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Pages\Clients.g.cs
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Pages\clientsEdit.g.cs
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Tegochnaya.g.cs
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\App.g.cs
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon_Content.g.cs
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon_MarkupCompile.cache
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon_MarkupCompile.lref
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\MainWindow.baml
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Pages\Clients.baml
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Pages\clientsEdit.baml
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Tegochnaya.baml
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon.g.resources
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon.csproj.GenerateResource.cache
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon.csproj.CoreCompileInputs.cache
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon.csproj.CopyComplete
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon.exe
+C:\Users\mcher\Desktop\дед\решения\Салон\Салон - клиенты\Salon\obj\Debug\Salon.pdb
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\bin\Debug\Salon.exe.config
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\bin\Debug\Salon.exe
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\bin\Debug\Salon.pdb
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\bin\Debug\EntityFramework.dll
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\bin\Debug\EntityFramework.xml
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon.csproj.AssemblyReference.cache
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\MainWindow.g.cs
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Pages\Clients.g.cs
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Pages\clientsEdit.g.cs
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Tegochnaya.g.cs
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\App.g.cs
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon_Content.g.cs
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon_MarkupCompile.cache
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon_MarkupCompile.lref
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\MainWindow.baml
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Pages\Clients.baml
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Pages\clientsEdit.baml
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Tegochnaya.baml
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon.g.resources
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon.csproj.GenerateResource.cache
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon.csproj.CoreCompileInputs.cache
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon.csproj.CopyComplete
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon.exe
+C:\Users\mcher\Desktop\дед\Салон\Салон - клиенты\Salon\obj\Debug\Salon.pdb
